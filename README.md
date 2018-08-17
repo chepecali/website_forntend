@@ -1,2 +1,2 @@
-# website_forntend
+# website_frontend
 hackathon frontend
